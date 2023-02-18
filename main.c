@@ -244,3 +244,5 @@ void show(int i,char ch1,char ch2)
     printf("Metal\n");
   printf("\n\t\t\t\t\t\tThank You ! \n\n\n");
 }
+
+//DEVAPATLA KIRAN KUMAR
